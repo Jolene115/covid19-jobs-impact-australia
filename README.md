@@ -75,6 +75,8 @@ Notable drops align with national lockdowns (March–April 2020) and show varyin
 
 <img width="1189" height="590" alt="image" src="https://github.com/user-attachments/assets/27c984d7-7faf-4dd1-89e5-4ba5c33934c1" />
 
+- **Accommodation & Food Services** had the **sharpest drop** (−4.3%)
+- Other sectors saw **moderate declines** between −1.9% to −2.5%
 ---
 
 ## 📚 Data Source
@@ -92,6 +94,12 @@ Notable drops align with national lockdowns (March–April 2020) and show varyin
 - pandas
 - matplotlib
 - openpyxl
+
+---
+
+## 📝 Conclusion
+
+The Australian job market experienced uneven disruptions due to COVID-19. Industries like **hospitality** and **real estate** were more sensitive to lockdowns, while sectors like **wholesale trade** showed better resilience. These insights provide critical signals for policymakers and economic recovery planning.
 
 ---
 
