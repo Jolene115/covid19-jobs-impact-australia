@@ -43,6 +43,26 @@ Click below to open and run the notebook in **Google Colab** (no setup required)
 - **Health care and mining** showed stronger resilience.
 - Recovery patterns varied sharply between industries post-lockdown.
 
+**Deep Dive: Pre- vs During-COVID Impact by Industry**
+To quantify the economic shock, we compared the average payroll jobs index **before** and **during** COVID-19 for selected industries:
+
+| Industry Division                     | Pre-COVID Avg | COVID Avg | % Change   |
+| ------------------------------------- | ------------- | --------- | ---------- |
+| Accommodation & Food Services         | 98.59         | 94.35     | **-4.30%** |
+| Rental, Hiring & Real Estate Services | 99.28         | 96.79     | -2.51%     |
+| Transport, Postal & Warehousing       | 99.63         | 97.17     | -2.46%     |
+| Education & Training                  | 99.79         | 97.37     | -2.42%     |
+| Wholesale Trade                       | 99.85         | 97.96     | -1.89%     |
+
+🧠 Interpretation
+- **Accommodation & Food Services** faced the sharpest decline (~4.3%), reflecting vulnerability to lockdowns.
+- Other industries experienced moderate declines between **~1.9% to 2.5%**.
+- No sector in this subset fully returned to pre-pandemic levels by mid-2021.
+
+> 📅 **Periods Used**:  
+> - Pre-COVID: `2020-03-07` to `2020-04-04`  
+> - COVID Impact: `2020-04-05` to `2021-06-26`
+
 ---
 
 ## 📚 Data Source
