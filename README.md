@@ -1,4 +1,4 @@
-# 📊 COVID-19 Jobs Impact in Australia
+# 📊 Australia's Jobs in Crisis: Tracking COVID-19’s Economic Shockwave (2020–2021)
 
 This repository presents a data analysis project exploring the impact of the COVID-19 pandemic on industry-specific employment trends across Australia. Using weekly payroll job index data from the Australian Bureau of Statistics (ABS), the project provides visual insights into how different sectors responded during 2020–2021.
 
