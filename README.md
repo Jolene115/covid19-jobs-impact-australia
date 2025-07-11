@@ -63,7 +63,15 @@ To quantify the economic shock, we compared the average payroll jobs index **bef
 > - Pre-COVID: `2020-03-07` to `2020-04-04`  
 > - COVID Impact: `2020-04-05` to `2021-06-26`
 
+**Figure 1: Percentage change in Payroll Jobs Index**  
+This bar chart shows the percentage drop in payroll jobs for selected Australian industries during the COVID-19 period (April 2020 – June 2021), compared to the pre-COVID baseline.  
+Sectors like *Accommodation & Food Services* experienced the sharpest declines.
+
 <img width="1189" height="590" alt="image" src="https://github.com/user-attachments/assets/c74fc8e9-c410-4dce-92af-8747ef900b80" />
+
+**Figure 2: Weekly Payroll Jobs Trends (2020–2021)**  
+This line chart visualizes weekly changes in payroll jobs across industries.  
+Notable drops align with national lockdowns (March–April 2020) and show varying recovery patterns.
 
 <img width="1189" height="590" alt="image" src="https://github.com/user-attachments/assets/27c984d7-7faf-4dd1-89e5-4ba5c33934c1" />
 
