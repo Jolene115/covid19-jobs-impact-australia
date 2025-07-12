@@ -17,8 +17,11 @@ Click below to open and run the notebook in **Google Colab** (no setup required)
 ## 📁 Project Structure
 
 📦 covid19-jobs-impact-australia
+
 ├── covid_analysis.ipynb # Main analysis notebook
+
 ├── payroll_jobs_table1.xlsx # Raw dataset from ABS
+
 └── README.md # Project documentation
 
 
