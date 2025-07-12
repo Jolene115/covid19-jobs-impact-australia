@@ -76,7 +76,7 @@ Sectors like *Accommodation & Food Services* experienced the sharpest declines.
 This line chart visualizes weekly changes in payroll jobs across industries.  
 Notable drops align with national lockdowns (March–April 2020) and show varying recovery patterns.
 
-<img width="1189" height="590" alt="image" src="https://github.com/user-attachments/assets/27c984d7-7faf-4dd1-89e5-4ba5c33934c1" />
+<img width="1189" height="590" alt="image" src="https://github.com/user-attachments/assets/df723c5c-5b18-46e7-8266-15831eb093cd" />
 
 - **Accommodation & Food Services** had the **sharpest drop** (−4.3%)
 - Other sectors saw **moderate declines** between −1.9% to −2.5%
