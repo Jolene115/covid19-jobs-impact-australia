@@ -104,6 +104,23 @@ Notable drops align with national lockdowns (March–April 2020) and show varyin
 
 The Australian job market experienced uneven disruptions due to COVID-19. Industries like **hospitality** and **real estate** were more sensitive to lockdowns, while sectors like **wholesale trade** showed better resilience. These insights provide critical signals for policymakers and economic recovery planning.
 
+## Fast Summary (Statistics and Influence Expectation)
+
+**Key Statistics (Quantitative Impact)**
+- **Accommodation and food services:** largest decline in payroll jobs during covid-19, averaging a **-4.30% drop** in job index.
+- **Transport, Education, and Rental sectors:** all saw **2%-2.5% drops**, showing moderate disruption.
+- **Wholesale Trade:** remained the most stable, with just a **-1.89% drop**, also the least drop and to be likely due to its essential role in supply chains.
+
+**Impacted Populations**
+- Analysis focused on Australia (National level) and All Age Groups.
+- Highlights how specific industries were more vulnerable to lockdowns and policy measures.
+- Ties back to real economic and social outcomes: **school closure, hospitality shutdowns, logistics restrictions.** 
+
+**Data-driven Influence and Insights**
+- This analysis helps policymakers and economic planners identify which sectors needed more financial support.
+- Could be used by businesses to **anticipate risk in similar future** **scenarios** and disruptions.
+- Reinforces the value of data storytelling: combining time-series trends, milestones (lockdowns), and annotated visualisations to communicate findings clearly.
+
 ---
 
 ## 🚀 How to Run This Project
